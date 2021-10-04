@@ -1,2 +1,2 @@
 # Grupo-Los-amigos-de-Jhosep
-Trabajo lp2
+Practica CALIFICADA 2 -  Lp2
